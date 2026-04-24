@@ -1,3 +1,5 @@
+RUN chmod +x /entrypoint.sh
+
 FROM ubuntu:latest
 RUN apt-get update && apt-get install -y python3-venv python3-dev
 RUN apt-get update && apt-get install -y \
