@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Podcast Generator v2"
 author: "Kristen Hyslope"
 description: "Generates a feeed for a podcast from a YAML file"
 runs:
