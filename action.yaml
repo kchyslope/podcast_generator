@@ -8,11 +8,11 @@ branding:
   icon: "git-branch"
   color: "purple"
 inputs:
-email:
-  description: The commiter's email address
-  required: true
-  default: ${{ github.actor }}@localhost
-name:
-  description: the commiter's name
-  required: true
-  default: ${{ github.actor }}
+  commiter email:
+    description: The commiter's email address
+    required: true
+    default: ${{ github.actor }}@localhost
+  committer name:
+    description: the commiter's name
+    required: true
+    default: ${{ github.actor }}
