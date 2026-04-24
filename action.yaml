@@ -8,7 +8,6 @@ branding:
   icon: "git-branch"
   color: "purple"
 inputs:
-inputs:
   committer_email:
     description: The committer's email address
     required: true
