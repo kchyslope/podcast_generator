@@ -15,4 +15,4 @@ branding:
     name:
       description: the commiter's name
       required: true
-      default: ${{ github.actor }}
+      default: ${{ github.actor }}@localhost
