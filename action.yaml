@@ -1,4 +1,4 @@
-name:"Podcast Generator"
+name: "Podcast Generator"
 author: "Kristen Hyslope"
 description: "Generates a feeed for a podcast from a YAML file"
 runs:
@@ -11,8 +11,8 @@ branding:
     email:
       description: The commiter's email address
       required: true
-      default ${{ github.actor }}@localhost
+      default: ${{ github.actor }}@localhost
     name:
       description: the commiter's name
       required: true
-      default ${{ github.actor }}
+      default: ${{ github.actor }}
