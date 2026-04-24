@@ -1,5 +1,5 @@
 #!/bin/bash
-
+chmod +x entrypoint.sh
 echo "========================="
 
 git config --global user.name "${GITHUB_ACTOR}"
