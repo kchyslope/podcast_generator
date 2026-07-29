@@ -16,7 +16,7 @@ function App() {
   return (
     <div className="layout">
       <header className="page-header">
-        <h1>Podcast Generat0r — Demo</h1>
+        <h1>Podcast Generator — Demo</h1>
         <p>Edit the feed data and watch the preview and generated RSS feed update live.</p>
       </header>
 

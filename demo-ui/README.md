@@ -1,4 +1,4 @@
-# Podcast Generat0r — Demo UI
+# Podcast Generator — Demo UI
 
 **Live demo: [kchyslope.github.io/podcast_generator](https://kchyslope.github.io/podcast_generator/)**
 
