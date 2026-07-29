@@ -1,5 +1,7 @@
 # Podcast Generat0r — Demo UI
 
+**Live demo: [kchyslope.github.io/podcast_generator](https://kchyslope.github.io/podcast_generator/)**
+
 A self-contained React + Vite demo for the [podcast_generator](../) GitHub Action. Edit podcast/episode
 metadata in the form and watch two live previews update: a podcast-app-style episode list, and the raw
 `podcast.xml` RSS feed that would be generated (via a JS port of [`feed.py`](../feed.py)).
