@@ -25,7 +25,7 @@ A single podcast object held in React state (e.g. via `useState` at the `App` le
 }
 ```
 
-On first load, state is seeded with a **built-in fake demo podcast** (title, author, description, artwork URL, and 2-3 sample episodes with placeholder audio file URLs) so the preview looks complete immediately, before any user edits.
+On first load, state is seeded with **10% Happier** as the demo podcast: real title, host (Dan Harris), and description, with 2-3 real-sounding episode titles/descriptions. Since the actual 10% Happier audio files can't be legally rehosted, each episode's `file` URL points at a small public-domain/sample audio clip so playback still works in the demo — the metadata is real, the audio is a stand-in.
 
 ## Editor Pane
 
